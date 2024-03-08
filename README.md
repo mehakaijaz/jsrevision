@@ -1,11 +1,11 @@
-#JS REVISION WITH MINI PROJECTS
-1.Character/Words Counter
-2.Speech to Text
-3.To-Do List
-4.Quotes Generator
-5.Hotel Menu List'
-6.Form Validation
-7.Recipe App
-8.Movie App
-9.Budget app
-10.Portfolio
+#JS REVISION WITH MINI PROJECTS<br>
+1.Character/Words Counter<br>
+2.Speech to Text<br>
+3.To-Do List<br>
+4.Quotes Generator<br>
+5.Hotel Menu List<br>
+6.Form Validation<br>
+7.Recipe App<br>
+8.Movie App<br>
+9.Budget app<br>
+10.Portfolio<br>
